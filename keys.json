@@ -1,0 +1,18 @@
+{
+  "keys": [
+    {
+      "key": "EP-XXXX-XXXX-XXXX",
+      "owner": "Emrepkeer",
+      "expires": "2026-12-31",
+      "hwid_locked": false,
+      "hwid": ""
+    },
+    {
+      "key": "EP-DEMO-1234-5678",
+      "owner": "Emrepkeer",
+      "expires": "2025-01-01",
+      "hwid_locked": false,
+      "hwid": ""
+    }
+  ]
+}
