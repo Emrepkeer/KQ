@@ -1,16 +1,23 @@
 {
   "keys": [
     {
-      "key": "EP-XXXX-XXXX-XXXX",
+      "key": "EP-7A3K-9XQ2-LM8P",
       "owner": "Emrepkeer",
-      "expires": "2026-12-31",
+      "expires": "2026-03-17",
       "hwid_locked": false,
       "hwid": ""
     },
     {
-      "key": "EP-DEMO-1234-5678",
+      "key": "EP-4ZTR-2H9D-K7WF",
       "owner": "Emrepkeer",
-      "expires": "2025-01-01",
+      "expires": "2026-03-31",
+      "hwid_locked": false,
+      "hwid": ""
+    }
+    {
+      "key": "EP-4ZTR-2H9D-K7WF",
+      "owner": "Emrepkeer",
+      "expires": "2030-01-01",
       "hwid_locked": false,
       "hwid": ""
     }
